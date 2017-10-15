@@ -1,7 +1,7 @@
 Dreamcoinclub integration/staging tree
 ================================
 
-http://www.dreamcoinclub.org
+http://www.dreamcoinclub.com
 
 Copyright (c) 2009-2013 Dreamcoinclub Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. Dreamcoinclub is also the name of the open sour
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Dreamcoinclub client software, see http://www.dreamcoinclub.org.
+the Dreamcoinclub client software, see http://www.dreamcoinclub.com.
 
 License
 -------
